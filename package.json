@@ -1,0 +1,1 @@
+{"name":"nearshore-roofing","private":true,"type":"module","scripts":{"build":"node build.mjs","dev":"node server.mjs","check":"node check.mjs"}}

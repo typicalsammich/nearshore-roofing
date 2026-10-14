@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://near-shore-roofing-coastal.typical-sammich.chatgpt.site/sitemap.xml
